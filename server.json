@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.shift7667/cheapest-esim",
+  "title": "Cheapest eSIM Korea (최저가e심)",
+  "description": "Verified daily travel eSIM/SIM prices for 54 countries, 1-30 day trips, Korean sellers. Free, no auth.",
+  "version": "1.0.0",
+  "websiteUrl": "https://pyungyo.com/esim/developers",
+  "repository": { "url": "https://github.com/shift7667/cheapest-esim-mcp", "source": "github" },
+  "remotes": [
+    { "type": "streamable-http", "url": "https://pyungyo.com/esim/mcp" }
+  ]
+}
